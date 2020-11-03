@@ -86,7 +86,7 @@ Once cleaning was complete, another EDA report was run on the new data. See [cle
 
 Full code available [here](final-project/a_dam_airbnb.R)
 
-### Recommendations based on Prompt 2
+### Recommendations to Client
 
 The data was evaluated categorically by type of property, including subtype (i.e. "Apartment - entire home" and "Apartment - Private Room") as a function of both rating value and count of ratings. Reading the prompt as "highest number of positive reviews" generated "Apartment - Entire home/apt" as the clear leader, followed by . Further analysis is needed to evaluate this more effectively.
 
