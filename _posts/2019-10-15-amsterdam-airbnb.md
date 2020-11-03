@@ -92,7 +92,7 @@ The data was evaluated categorically by type of property, including subtype (i.e
 
 Which Property Types receive the most positive reviews?
 
-![Average Reviews by Property Type as a function of Review and Count](https://github.com/Lwillio/ga-adam-airbnb/blob/main/final-project/images/avgRev-propType-reviews.png)
+![Average Reviews by Property Type as a function of Review and Count](https://github.com/Lwillio/ga-adam-airbnb/blob/main/final-project/images/avgRev-propType-reviews.png?raw=true)
 
 Based on the data (and the interpretation at the time of "highest count of high reviews"), **Apartment** listings for the entire apartment received the most positive reviews, followed by **House - Entire** and **Boat - Entire** respectively.
 
