@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Portfolio - LWillio
+name: Portfolio
 
 # Name of site (displayed in tab)
 tabname: Portfolio - LWillio
@@ -12,7 +12,7 @@ tabname: Portfolio - LWillio
 # author: Amit Merchant
 
 # Short bio or description (displayed in the header)
-# description: An elegant Jekyll theme
+description: LWillio
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /lwillio.github.io/images/self.png
