@@ -6,6 +6,7 @@ categories: [project,R]
 
 What to recommend when a client wants to invest in an AirBnB property in Amsterdam?
 
+_NB: This was completed as a project for a course taken in 2019_
 
 
 
