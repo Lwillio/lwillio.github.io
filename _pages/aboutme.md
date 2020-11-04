@@ -4,7 +4,7 @@ title: About Me
 permalink: /aboutme/
 ---
 
-I started in IT with little more experience than "that one time I installed Ubuntu" and tinkering on an old Jeep. On my second day on the job, I used Powershell to change my coworker's desktop background to He-Man (while he was working from home).
+I started in IT with little more experience than "that one time I installed Ubuntu" and tinkering on an old Jeep. On my second day on the job, I discovered Powershell and used it to change my coworker's desktop background to He-Man (while he was working from home). For learning purposes.
 
 From there I was writing an AppleScript from scratch to automate and standardize laptop builds; various PowerShell scripts to update Active Directory, create folder structures, install software remotely, or perform software audits; or BaSH scripting a folder dating logic that would be one line in Powershell because .ps1 files are blocked by antivirus - I fell in love with scripting. 
 
