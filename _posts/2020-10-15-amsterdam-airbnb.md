@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Investment in Amsterdam
-categories: [project,R]
+categories: [project,R,data analysis]
 ---
 
 What to recommend when a client wants to invest in an AirBnB property in Amsterdam?
