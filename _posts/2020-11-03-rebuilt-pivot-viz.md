@@ -1,6 +1,6 @@
 ---
 layout:post
-title: PIVOT as a SQL Visualization
+title: An inelegant SQL viz
 categories:[SQL,rebuild]
 ---
 
