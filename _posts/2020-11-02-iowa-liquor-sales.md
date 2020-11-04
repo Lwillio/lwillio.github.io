@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Liquor Sales Marketing in Iowa
-categories: [project,R,SQL,Tableau]
+categories: [project,data analysis,R,SQL,Tableau]
 ---
 
 Help guide a marketing plan for liquor sales in Iowa
