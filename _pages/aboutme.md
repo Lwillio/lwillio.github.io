@@ -12,4 +12,4 @@ _And then I found SQL_. I had stored procedures to create new users, update and 
 
 So, now, I am looking toward the next step in my journey - Data Engineering - a way to combine my loves of scripting and data cleaning with a focus on efficiency and automation. I would love to connect with you on [LinkedIn](http://www.linkedin.com/in/lwilliamson) to discuss any Data Stewardship, Specialist or Engineer roles you may have available, and how my skills could benefit you. Please reach out!
 
-Lauren
+_LWillio_
