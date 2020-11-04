@@ -8,7 +8,7 @@ I started in IT with little more experience than "that one time I installed Ubun
 
 From there I was writing an AppleScript from scratch to automate and standardize laptop builds; various PowerShell scripts to update Active Directory, create folder structures, install software remotely, or perform software audits; or BaSH scripting a [folder dating logic](script link) that would be one line in Powershell because .ps1 files are blocked by antivirus - I fell in love with scripting. 
 
-_And then I found SQL_. I had stored procedures to create new users, update and merge duplicate rows - anything I ran into frequently I would standardize and [script](link to example PIVOT/CAST inelegancy). Data Analytics was the next logical step. I got to play with SQL and found R scripting (scripting!!), regular expressions, and Tableau. Turns out, data cleaning was the most fulfilling aspect of the course for me.
+_And then I found SQL_. I had stored procedures to create new users, update and merge duplicate rows - anything I ran into frequently I would standardize and [script](/_posts/2020-11-03-rebuilt-pivot-viz.md). Data Analytics was the next logical step. I got to play with SQL and found R scripting (scripting!!), regular expressions, and Tableau. Turns out, data cleaning was the most fulfilling aspect of the course for me.
 
 I am currently in a position where I use AWS S3, Athena and SSMS frequently, as well as Apache Pig scripts for ETL. 
 
