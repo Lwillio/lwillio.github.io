@@ -1,7 +1,7 @@
 ---
-layout:post
-title: An inelegant SQL viz
-categories:[SQL,rebuild]
+layout: post
+title: An Inelegant SQL Viz
+categories: [SQL,rebuild]
 ---
 
 [use public database to visualize user permissions by role or similar]
