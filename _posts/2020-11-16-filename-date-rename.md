@@ -9,6 +9,8 @@ This project required a batchfile to be used in lieu of Powershell, so it is not
 Files came in to a repository each day, prefixed with the previous day's two digit date. This allowed multiple days worth of files to be stored in the repository, but the dynamic prefix needed to be removed so it would work with Apache Pig ETL. 
 
 This script reads in the current date - parsed into month, day, and year - and determines the previous date based on whether it is the first of the month (and if so, which month).
+ 
+Once the previous day value is known, those files can be identified out of all files in the repository, moved, and renamed without the date prefix. The routines are functionally the same aside from the "previous date" used.
 
 [Link to script in Github](https://github.com/Lwillio/scripts/blob/main/previousDateFindandRemove.bat)
 
