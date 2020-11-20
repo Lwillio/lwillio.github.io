@@ -1,7 +1,7 @@
 ---
-layout:post
+layout: post
 title: Removing Date from Filename 
-categories:[Batchfile,script]
+categories: [Batchfile,script]
 ---
 
 This project required a batchfile to be used in lieu of Powershell, so it is not as elegant as the one-line `(Get-Date).AddDays(-1)` solution Powershell offers.
